@@ -32,6 +32,7 @@ type NobelWinnerNames =
   | "Andrea Ghez"
   | "Anne L'Huillier";
 
+// And tell TypeScript that our array can only contain those values
 const ONLY_NOBEL_WINNERS: Array<NobelWinnerNames> = [
   "Marie Curie",
   "Maria Goeppert-Mayer",
