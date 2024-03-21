@@ -2,14 +2,12 @@
 //  ┃ ┣┫┗┓┃┫    ┃ ┃┃┃┃┃•
 //  ┻ ┛┗┗┛┛┗┛   ┻ ┗┻┛┗┛•
 
-// Fill in your name here, and find a way to restrict the
-// `physicist` variable to accept your name and *only* your name:
-let physicist: "Craig" = "Craig";
-type Physicist = typeof physicist;
+let subatomic: "Positron" = "Positron";
+type Subatomic = typeof subatomic;
 //   ^?
 
-const physicist2 = "Craig";
-type Physicist2 = typeof physicist2;
+const subatomic2 = "Positron";
+type Subatomic2 = typeof subatomic2;
 //   ^?
 
 // Explanation:
