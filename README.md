@@ -4,6 +4,10 @@
 
 🧶 Superstring Theory proposes that there are 11 dimensions, so we have 11 tasks to learn all about TypeScript strings (with almost no Physics, I promise!)
 
+## Slides:
+
+Follow along here: [https://slides.com/craigspence/string-theory-ngconf-2024/](https://slides.com/craigspence/string-theory-ngconf-2024/)
+
 ## Tasks:
 
 1) ["String"](https://www.typescriptlang.org/play?ssl=5&ssc=43&pln=1&pc=1#code/PTAEnhSRmUkZFJ176gtGcBQImGBSUhiUkNSkg6KTRb5KhaVa6iBEBBmKINykog2KSGGvutKfuf0GoAGIBLAHYATUAHsArgBdQAZxkBbAKYKAFhIDmoAO4bRAJ2kBDAEbylyhaf3KAXEA)
